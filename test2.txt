@@ -1,0 +1,3 @@
+this is test2
+you can use git add . to continue the operation
+remember git add . is diffirent from git add
